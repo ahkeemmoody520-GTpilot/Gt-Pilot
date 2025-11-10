@@ -1,0 +1,5 @@
+{
+  "name": "GT Pilot: AI Social Media Manager",
+  "description": "An AI-powered social media manager that analyzes brand tone, schedules posts, summarizes engagement, and generates visuals. Features a core intelligence module, an image generator, and a central chatbot interface.",
+  "requestFramePermissions": []
+}
